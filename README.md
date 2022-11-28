@@ -4,7 +4,7 @@
 <p align="center">Is my first flutter app, and it uses <a href='https://github.com/AXG-coder/drink-menu-backend'>drink-menu-backend </a> as backend API.</p><br>
 
 
-| ![Example App](https://media-exp1.licdn.com/dms/image/C4D22AQHHvgc8wSbAuQ/feedshare-shrink_800/0/1669466939343?e=1672272000&v=beta&t=oPP9WczscVgQOlzv81d-0xwlZNUp51A7IFOzECafZyk)  |
+| ![Example App](https://raw.githubusercontent.com/AXG-coder/drink-menu-flutter-app/main/example/first_Flutter_app_gif_AdobeExpress.gif)  |
 |---
 |  **Example app screenshot** |
 
