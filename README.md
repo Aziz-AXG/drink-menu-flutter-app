@@ -6,7 +6,7 @@
 
 | ![Example App](https://raw.githubusercontent.com/AXG-coder/drink-menu-flutter-app/main/example/first_Flutter_app_gif_AdobeExpress.gif)  |
 |---
-|  **Example app screenshot** |
+|  **Example app** |
 
 # To run the app
 
